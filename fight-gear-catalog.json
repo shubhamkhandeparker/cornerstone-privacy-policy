@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-12",
+  "products": [
+    {
+      "id": "demo-boxing-gloves-001",
+      "name": "Beginner Training Boxing Gloves",
+      "category": "BOXING_GLOVES",
+      "retailerName": "Cornerstone Demo",
+      "dealText": "Sample listing for testing",
+      "imageUrl": "https://placehold.co/800x500/png?text=Boxing+Gloves",
+      "productUrl": null,
+      "isAffiliateLink": false,
+      "isActive": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "demo-hand-wraps-001",
+      "name": "Cotton Hand Wraps",
+      "category": "HAND_WRAPS",
+      "retailerName": "Cornerstone Demo",
+      "dealText": "Sample listing for testing",
+      "imageUrl": "https://placehold.co/800x500/png?text=Hand+Wraps",
+      "productUrl": null,
+      "isAffiliateLink": false,
+      "isActive": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "demo-shin-guards-001",
+      "name": "Muay Thai Shin Guards",
+      "category": "SHIN_GUARDS",
+      "retailerName": "Cornerstone Demo",
+      "dealText": "Sample listing for testing",
+      "imageUrl": "https://placehold.co/800x500/png?text=Shin+Guards",
+      "productUrl": null,
+      "isAffiliateLink": false,
+      "isActive": true,
+      "sortOrder": 3
+    }
+  ]
+}
