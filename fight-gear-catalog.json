@@ -9,7 +9,7 @@
   "retailerName": "Amazon India — Test Link",
   "dealText": "Link-opening test — not an affiliate link",
   "imageUrl": "https://placehold.co/800x500/png?text=Boxing+Gloves",
-  "productUrl": "https://www.amazon.in/s?k=boxing+gloves",
+  "productUrl": "https://brandwebsite.com/products/boxing-gloves?ref=cornerstone",
   "isAffiliateLink": false,
   "isActive": true,
   "sortOrder": 1
