@@ -1,19 +1,29 @@
 {
-  "version": 1,
-  "updatedAt": "2026-07-12",
+  "version": 2,
+  "updatedAt": "2026-07-14",
   "products": [
-   {
-  "id": "demo-boxing-gloves-001",
-  "name": "Beginner Training Boxing Gloves",
-  "category": "BOXING_GLOVES",
-  "retailerName": "Amazon India — Test Link",
-  "dealText": "Link-opening test — not an affiliate link",
-  "imageUrl": "https://placehold.co/800x500/png?text=Boxing+Gloves",
-  "productUrl": "https://brandwebsite.com/products/boxing-gloves?ref=cornerstone",
-  "isAffiliateLink": false,
-  "isActive": true,
-  "sortOrder": 1
-},
+    {
+      "id": "demo-boxing-gloves-001",
+      "name": "Beginner Training Boxing Gloves",
+      "category": "BOXING_GLOVES",
+      "retailerName": "Demo Retail Partner",
+      "brandName": "Demo Combat Gear",
+      "partnerLabel": "TEST PARTNER",
+      "dealText": "Demo partner information for testing only",
+      "discountCode": "TEST10",
+      "countryCode": "IN",
+      "isFeatured": true,
+      "dealExpiresAt": "2026-12-31",
+      "availability": "LIMITED",
+      "currentPriceMinor": 199900,
+      "originalPriceMinor": 249900,
+      "currencyCode": "INR",
+      "imageUrl": "https://placehold.co/800x500/png?text=Boxing+Gloves",
+      "productUrl": "https://example.com/",
+      "isAffiliateLink": true,
+      "isActive": true,
+      "sortOrder": 1
+    },
     {
       "id": "demo-hand-wraps-001",
       "name": "Cotton Hand Wraps",
